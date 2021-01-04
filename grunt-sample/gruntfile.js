@@ -2,9 +2,7 @@
 //用于定义一些需要 Grunt 自动执行的任务
 //需要导出一个函数
 //此函数接收一个 Grunt 形参，内部提供一些创建任务时可以用到的 API
-// yarn grunt foo
-// yarn grunt bar  yarn grunt --help
-// yarn grunt  执行默认
+
 module.exports = grunt => {
    grunt.registerTask('foo',()=>{
      console.log('hello grunt~')

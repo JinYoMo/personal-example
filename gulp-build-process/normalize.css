@@ -1,0 +1,10 @@
+body{
+  background: red;
+}
+.main{
+  width: 100%;
+}
+p{
+  font-size: 14px;
+  font-weight: 400;
+}
