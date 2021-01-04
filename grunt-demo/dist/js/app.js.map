@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/app.js"],"names":["conl","console","log"],"mappings":";;AAAA,IAAOA,IAAI,GAAG,SAAPA,IAAO;AAAA,SAAMC,OAAO,CAACC,GAAR,CAAY,gBAAZ,CAAN;AAAA,CAAd;;AACAF,IAAI","sourcesContent":["const  conl = () => console.log(' hello world~ ')\r\nconl()"],"file":"app.js"}

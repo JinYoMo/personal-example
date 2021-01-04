@@ -1,0 +1,12 @@
+body {
+  width: 100%;
+  background: red;
+}
+body .main {
+  width: 100%;
+}
+body p {
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=main.css.map */
