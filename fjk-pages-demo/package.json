@@ -1,0 +1,14 @@
+{
+  "name": "fjk-pages-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean":"fjk-pages clean",
+    "build":"fjk-pages build",
+    "develop":"fjk-pages develop"
+  },
+  "devDependencies": {
+    "fjk-pages": "^0.2.0"
+  }
+}
